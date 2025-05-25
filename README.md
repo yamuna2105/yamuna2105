@@ -2,7 +2,7 @@
 - 👀  I’m interested in **Open Source**
 - 🌱 I’m currently learning **Web Development**
 - 💞️  I’m looking to collaborate on **beginner-friendly open-source projects** 
-- 📫 How to reach me: [LinkedIn]() | Email ()
+- 📫 How to reach me: [LinkedIn]() | Email (yamunapuvi60@gmail.com)
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I love solving puzzles and exploring new tech tools!
 
